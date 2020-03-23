@@ -276,6 +276,7 @@ enum ScalarFuncSig {
 	TruncateReal = 2155;
 	TruncateDecimal = 2156;
 	TruncateUint = 2157;
+	Hammi = 2158;
 
 	/*op*/
 	LogicalAnd = 3101;
